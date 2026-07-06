@@ -1,0 +1,25 @@
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\bin\Debug\net10.0\task11.deps.json
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\bin\Debug\net10.0\task11.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\bin\Debug\net10.0\task11.pdb
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.csproj.AssemblyReference.cache
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.AssemblyInfoInputs.cache
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.AssemblyInfo.cs
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.csproj.CoreCompileInputs.cache
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.sourcelink.json
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\refint\task11.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\task11.pdb
+C:\Users\erikv\OneDrive\Рабочий стол\practice2026\practice2026\task11\obj\Debug\net10.0\ref\task11.dll
+C:\Users\erikv\Downloads\practice2026-task11\task11\bin\Debug\net10.0\task11.deps.json
+C:\Users\erikv\Downloads\practice2026-task11\task11\bin\Debug\net10.0\task11.dll
+C:\Users\erikv\Downloads\practice2026-task11\task11\bin\Debug\net10.0\task11.pdb
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.csproj.AssemblyReference.cache
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.AssemblyInfoInputs.cache
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.AssemblyInfo.cs
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.csproj.CoreCompileInputs.cache
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.dll
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\refint\task11.dll
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\task11.pdb
+C:\Users\erikv\Downloads\practice2026-task11\task11\obj\Debug\net10.0\ref\task11.dll

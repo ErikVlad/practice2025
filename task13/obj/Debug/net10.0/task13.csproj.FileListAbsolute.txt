@@ -1,0 +1,12 @@
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\bin\Debug\net10.0\task13.deps.json
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\bin\Debug\net10.0\task13.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\bin\Debug\net10.0\task13.pdb
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.AssemblyInfoInputs.cache
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.AssemblyInfo.cs
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.sourcelink.json
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\refint\task13.dll
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\task13.pdb
+C:\Users\erikv\OneDrive\Рабочий стол\practice_clean\task13\obj\Debug\net10.0\ref\task13.dll
